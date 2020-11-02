@@ -27,7 +27,7 @@ The game's executable code (from the extracted iso)
 
 How to use
 Locate the Start.dol file Bring that file to the same location as the DolTool.exe 
-and run the tool to convert .dol to .elf. Next, follow the intructions under the 
+and run the tool via command prompt to convert .dol to .elf. Next, follow the intructions under the 
 Languages folder section above. Finally, run Ghidra and make sure to select the 
 PowerPC 32 bit big endian Gekko/Broadway variant when asked to choose a language. 
 After running, Ghidra will ask if you want to analyze the code, select yes then 
